@@ -5,6 +5,10 @@
  * Learn how to create Gradle builds at https://guides.gradle.org/creating-new-gradle-builds/
  */
 
+plugins {
+    id 'checkstyle'
+}
+
 apply plugin: 'application'
 mainClassName = 'Main'
 apply plugin: 'java'
