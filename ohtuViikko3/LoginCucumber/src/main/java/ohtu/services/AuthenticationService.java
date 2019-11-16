@@ -1,8 +1,10 @@
 package ohtu.services;
 
 import ohtu.domain.User;
+
 import java.util.ArrayList;
 import java.util.List;
+
 import ohtu.data_access.UserDao;
 
 public class AuthenticationService {
@@ -40,6 +42,13 @@ public class AuthenticationService {
 
     private boolean invalid(String username, String password) {
         // validity check of username and password
+        if (!username.matches("[a-zA-Z]+") || (username.length() < 2) || userDao.findByName(username) != null ) {
+            return true;
+        }
+
+        if (password.length() < 7 || (password.matches("[a-zA-Z]+") && !password.matches("[a-zA-Z]+"))) {
+            return true;
+        }
 
         return false;
     }
