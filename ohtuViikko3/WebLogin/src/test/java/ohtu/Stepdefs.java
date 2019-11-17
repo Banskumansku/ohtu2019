@@ -90,7 +90,8 @@ public class Stepdefs {
     }
 
     @When("a valid username {string} and password {string} and non matching password {string} confirmation are entered")
-    public void aValidUsernameAndPasswordAndNonMatchingPasswordConfirmationAreEntered(String string, String string2, String string3) {
+    public void aValidUsernameAndPasswordAndNonMatchingPasswordConfirmationAreEntered(String string, String string2,
+            String string3) {
         registerWith(string, string2, string3);
     }
 
@@ -109,6 +110,16 @@ public class Stepdefs {
         pageHasContent("passwords didn't match");
     }
 
+    @Given("user with username {string} with password {string} is successfully created")
+    public void userWithUsernameWithPasswordIsSuccessfullyCreated(String username, String password) {
+        registerWith(username, password);
+    }
+
+    @Given("user with username {string} and password {string} is tried to be created")
+    public void userWithUsernameAndPasswordIsTriedToBeCreated(String username, String password) {
+        // Write code here that turns the phrase above into concrete actions
+        registerWith(username, password);
+    }
 
     @After
     public void tearDown() {
