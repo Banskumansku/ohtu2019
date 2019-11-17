@@ -10,15 +10,15 @@ public class CreationStatus {
         errors = new ArrayList<>();
     }
 
-    public void addError(String error){
+    public void addError(String error) {
         errors.add(error);
     }
-    
+
     public List<String> errors() {
         return errors;
     }
 
     public boolean isOk() {
         return errors.isEmpty();
-    } 
+    }
 }

@@ -2,32 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2da7f068-28b3-4bc4-b3e6-73bcf34c5980" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../HelloCucumber/.gradle/5.6.3/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloCucumber/.gradle/5.6.3/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HelloCucumber/.gradle/5.6.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloCucumber/.gradle/5.6.3/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HelloCucumber/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloCucumber/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HelloCucumber/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloCucumber/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HelloCucumber/bin/test/ohtu/Stepdefs.class" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloCucumber/bin/test/ohtu/Stepdefs.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HelloCucumber/bin/test/ohtu/resetingCounter.feature" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloCucumber/bin/test/ohtu/resetingCounter.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HelloCucumber/src/test/java/ohtu/Stepdefs.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloCucumber/src/test/java/ohtu/Stepdefs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HelloCucumber/src/test/resources/ohtu/resetingCounter.feature" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloCucumber/src/test/resources/ohtu/resetingCounter.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.6.3/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.3/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.6.3/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.3/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.6.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.3/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.6.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.3/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.6.3/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.3/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.6.3/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.3/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.6.3/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.3/javaCompile/taskHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/main/ohtu/services/AuthenticationService.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/main/ohtu/services/AuthenticationService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/test/ohtu/Stepdefs.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/test/ohtu/Stepdefs.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/test/ohtu/login.feature" beforeDir="false" afterPath="$PROJECT_DIR$/bin/test/ohtu/login.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/test/ohtu/new_user.feature" beforeDir="false" afterPath="$PROJECT_DIR$/bin/test/ohtu/new_user.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ohtu/services/AuthenticationService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ohtu/services/AuthenticationService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ohtu/Stepdefs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ohtu/Stepdefs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/ohtu/login.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/ohtu/login.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/ohtu/new_user.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/ohtu/new_user.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebLogin/.gradle/5.6.3/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../WebLogin/.gradle/5.6.3/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebLogin/.gradle/5.6.3/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../WebLogin/.gradle/5.6.3/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebLogin/.gradle/5.6.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../WebLogin/.gradle/5.6.3/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebLogin/.gradle/5.6.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../WebLogin/.gradle/5.6.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebLogin/.gradle/5.6.3/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../WebLogin/.gradle/5.6.3/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebLogin/.gradle/5.6.3/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../WebLogin/.gradle/5.6.3/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebLogin/.gradle/5.6.3/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../WebLogin/.gradle/5.6.3/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebLogin/.gradle/5.6.3/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../WebLogin/.gradle/5.6.3/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebLogin/.gradle/5.6.3/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../WebLogin/.gradle/5.6.3/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebLogin/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../WebLogin/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebLogin/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../WebLogin/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebLogin/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../WebLogin/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebLogin/salasanat.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../WebLogin/salasanat.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebLogin/src/main/java/ohtu/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WebLogin/src/main/java/ohtu/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebLogin/src/main/java/ohtu/Tester.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WebLogin/src/main/java/ohtu/Tester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebLogin/src/main/java/ohtu/authentication/AuthenticationService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WebLogin/src/main/java/ohtu/authentication/AuthenticationService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebLogin/src/main/java/ohtu/data_access/FileUserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WebLogin/src/main/java/ohtu/data_access/FileUserDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebLogin/src/main/java/ohtu/data_access/InMemoryUserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WebLogin/src/main/java/ohtu/data_access/InMemoryUserDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebLogin/src/main/java/ohtu/data_access/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WebLogin/src/main/java/ohtu/data_access/UserDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebLogin/src/main/java/ohtu/util/CreationStatus.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WebLogin/src/main/java/ohtu/util/CreationStatus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebLogin/src/main/resources/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/../WebLogin/src/main/resources/templates/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebLogin/src/main/resources/templates/ohtu.html" beforeDir="false" afterPath="$PROJECT_DIR$/../WebLogin/src/main/resources/templates/ohtu.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebLogin/src/main/resources/templates/user.html" beforeDir="false" afterPath="$PROJECT_DIR$/../WebLogin/src/main/resources/templates/user.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebLogin/src/test/java/ohtu/Stepdefs.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WebLogin/src/test/java/ohtu/Stepdefs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebLogin/src/test/resources/ohtu/logging_in.feature" beforeDir="false" afterPath="$PROJECT_DIR$/../WebLogin/src/test/resources/ohtu/logging_in.feature" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -75,12 +75,21 @@
     </system>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/resources/ohtu/new_user.feature">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="470">
-              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+              <caret line="32" selection-start-line="32" selection-end-line="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ohtu/services/AuthenticationService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="283">
+              <caret line="44" selection-start-line="44" selection-end-line="50" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -97,7 +106,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/ohtu/Stepdefs.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="188">
+            <state relative-caret-position="986">
               <caret line="71" column="41" selection-start-line="71" selection-start-column="41" selection-end-line="71" selection-end-column="41" />
               <folding>
                 <element signature="e#1198#1199#0" expanded="true" />
@@ -152,8 +161,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -263,13 +270,15 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1573928814118" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../WebLogin" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -339,6 +348,8 @@
       <option name="presentableId" value="Default" />
       <updated>1573925641347</updated>
       <workItem from="1573925645831" duration="3142000" />
+      <workItem from="1574006552658" duration="51000" />
+      <workItem from="1574015676074" duration="76000" />
     </task>
     <servers />
   </component>
@@ -375,27 +386,19 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3142000" />
+    <option name="totallyTimeSpent" value="3269000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info id="Designer" />
-      <window_info id="Image Layers" />
-      <window_info id="UI Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Capture Tool" />
-      <window_info id="Learn" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25718608" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Build" weight="0.3289689" />
-      <window_info anchor="bottom" id="TMC Test Results" sideWeight="0.49924356" weight="0.3289689" />
-      <window_info anchor="bottom" id="Terminal" weight="0.3289689" />
-      <window_info anchor="bottom" id="Event Log" sideWeight="0.50075644" side_tool="true" weight="0.3289689" />
-      <window_info anchor="bottom" id="Messages" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.36824876" />
@@ -403,6 +406,14 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.3289689" />
+      <window_info anchor="bottom" id="TMC Test Results" order="8" sideWeight="0.49924356" weight="0.3289689" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3289689" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50075644" side_tool="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="14" />
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="right" id="Capture Analysis" order="1" />
       <window_info anchor="right" id="Gradle" order="2" visible="true" weight="0.32980332" />
@@ -473,20 +484,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ohtu/RunCucumberTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ohtu/services/AuthenticationService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="50" column="9" lean-forward="true" selection-start-line="50" selection-start-column="9" selection-end-line="50" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ohtu/App.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -494,16 +491,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ohtu/Stepdefs.java">
+    <entry file="file://$PROJECT_DIR$/src/test/resources/ohtu/new_user.feature">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="71" column="41" selection-start-line="71" selection-start-column="41" selection-end-line="71" selection-end-column="41" />
-          <folding>
-            <element signature="e#1198#1199#0" expanded="true" />
-            <element signature="e#1265#1266#0" expanded="true" />
-            <element signature="e#1886#1887#0" expanded="true" />
-            <element signature="e#1953#1954#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="470">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
         </state>
       </provider>
     </entry>
@@ -514,10 +505,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/ohtu/new_user.feature">
+    <entry file="file://$PROJECT_DIR$/src/test/java/ohtu/Stepdefs.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="470">
-          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+        <state relative-caret-position="986">
+          <caret line="71" column="41" selection-start-line="71" selection-start-column="41" selection-end-line="71" selection-end-column="41" />
+          <folding>
+            <element signature="e#1198#1199#0" expanded="true" />
+            <element signature="e#1265#1266#0" expanded="true" />
+            <element signature="e#1886#1887#0" expanded="true" />
+            <element signature="e#1953#1954#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ohtu/RunCucumberTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ohtu/services/AuthenticationService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="44" selection-start-line="44" selection-end-line="50" selection-end-column="9" />
         </state>
       </provider>
     </entry>

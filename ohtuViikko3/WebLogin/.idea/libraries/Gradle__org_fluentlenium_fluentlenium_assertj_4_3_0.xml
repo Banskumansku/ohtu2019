@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.fluentlenium:fluentlenium-assertj:4.3.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.fluentlenium/fluentlenium-assertj/4.3.0/95316d9c8f9bc120750d8d1b0ef83535f7a7cb0f/fluentlenium-assertj-4.3.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.fluentlenium/fluentlenium-assertj/4.3.0/1b8307ecb93ab69134c6b517d39ce7fa93a25689/fluentlenium-assertj-4.3.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
