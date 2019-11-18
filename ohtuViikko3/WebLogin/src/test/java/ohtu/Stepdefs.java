@@ -80,7 +80,6 @@ public class Stepdefs {
     public void anIncorrectUsernameAndPasswordAndMatchingPasswordConfirmationAreEntered(String username,
             String password) {
         registerWith(username, password, "wrongpassword1");
-
     }
 
     @When("a valid username {string} and nonvalid password {string} and matching password confirmation are entered")
@@ -90,9 +89,9 @@ public class Stepdefs {
     }
 
     @When("a valid username {string} and password {string} and non matching password {string} confirmation are entered")
-    public void aValidUsernameAndPasswordAndNonMatchingPasswordConfirmationAreEntered(String string, String string2,
-            String string3) {
-        registerWith(string, string2, string3);
+    public void aValidUsernameAndPasswordAndNonMatchingPasswordConfirmationAreEntered(String username, String password,
+            String passwordConfirmation) {
+        registerWith(username, password, passwordConfirmation);
     }
 
     @Then("user is not created and error short username {string} is reported")
@@ -112,13 +111,24 @@ public class Stepdefs {
 
     @Given("user with username {string} with password {string} is successfully created")
     public void userWithUsernameWithPasswordIsSuccessfullyCreated(String username, String password) {
+        driver.get(baseUrl);
+        WebElement element = driver.findElement(By.linkText("register new user"));
+        element.click();
         registerWith(username, password);
     }
 
     @Given("user with username {string} and password {string} is tried to be created")
     public void userWithUsernameAndPasswordIsTriedToBeCreated(String username, String password) {
         // Write code here that turns the phrase above into concrete actions
+        driver.get(baseUrl);
+        WebElement element = driver.findElement(By.linkText("register new user"));
+        element.click();
         registerWith(username, password);
+    }
+
+    @When("a valid username {string} and password {string} are entered")
+    public void aValidUsernameAndPasswordAreEntered(String string, String string2) {
+        logInWith(string, string2);
     }
 
     @After
@@ -152,7 +162,6 @@ public class Stepdefs {
         element.sendKeys(password);
         element = driver.findElement(By.name("signup"));
         element.submit();
-        ;
     }
 
     private void registerWith(String username, String password, String wrongpassword) {
