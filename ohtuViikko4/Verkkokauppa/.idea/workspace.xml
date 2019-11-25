@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="21859bf8-5f09-4eec-a890-a83f5afb98d3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../MaksukorttiMockito/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MaksukorttiMockito/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/ohtu/verkkokauppa/KauppaTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/ohtu/verkkokauppa/KauppaTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ohtu/verkkokauppa/Kauppa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ohtu/verkkokauppa/Kauppa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ohtu/verkkokauppa/KauppaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ohtu/verkkokauppa/KauppaTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -20,22 +24,91 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Verkkokauppa" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Verkkokauppa" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Verkkokauppa" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Verkkokauppa" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="verification" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Verkkokauppa" type="f1a62948:ProjectNode" />
+                <item name="Run Configurations" type="7b0102dc:RunConfigurationsNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ohtu/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="24" column="32" lean-forward="true" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
+            <state relative-caret-position="306">
+              <caret line="24" column="32" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ohtu/verkkokauppa/Kauppa.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="29" column="28" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ohtu/verkkokauppa/Ostoskori.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ohtu/verkkokauppa/Varasto.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-17">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/ohtu/verkkokauppa/KauppaTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-391">
-              <caret line="85" column="25" lean-forward="true" selection-start-line="85" selection-start-column="25" selection-end-line="85" selection-end-column="25" />
+            <state relative-caret-position="187">
+              <caret line="200" column="27" selection-start-line="200" selection-start-column="27" selection-end-line="200" selection-end-column="27" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -59,7 +132,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/src/main/java/ohtu/verkkokauppa/Varasto.java" />
         <option value="$PROJECT_DIR$/src/test/java/ohtu/verkkokauppa/KauppaTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ohtu/verkkokauppa/Kauppa.java" />
       </list>
     </option>
   </component>
@@ -114,6 +189,15 @@
               <item name="Verkkokauppa" type="b2602c69:ProjectViewProjectNode" />
               <item name="Verkkokauppa" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ohtu" type="462c0819:PsiDirectoryNode" />
+              <item name="verkkokauppa" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Verkkokauppa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Verkkokauppa" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
@@ -141,7 +225,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1574675387397" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1574679187248" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -159,71 +243,84 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.KauppaTest">
-    <configuration name="KauppaTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Verkkokauppa.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ohtu.verkkokauppa.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ohtu.verkkokauppa" />
-      <option name="MAIN_CLASS_NAME" value="ohtu.verkkokauppa.KauppaTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+  <component name="RunManager" selected="Gradle.Verkkokauppa [jacocoTestReport]">
+    <configuration name="Verkkokauppa [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
     </configuration>
-    <configuration name="KauppaTest.eriOstoksistaVeloitetaanOikein" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Verkkokauppa.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ohtu.verkkokauppa.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ohtu.verkkokauppa" />
-      <option name="MAIN_CLASS_NAME" value="ohtu.verkkokauppa.KauppaTest" />
-      <option name="METHOD_NAME" value="eriOstoksistaVeloitetaanOikein" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+    <configuration name="Verkkokauppa [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
     </configuration>
-    <configuration name="KauppaTest.eriOstoksistaVeloitetaanOikeinToinenLoppu" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Verkkokauppa.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ohtu.verkkokauppa.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ohtu.verkkokauppa" />
-      <option name="MAIN_CLASS_NAME" value="ohtu.verkkokauppa.KauppaTest" />
-      <option name="METHOD_NAME" value="eriOstoksistaVeloitetaanOikeinToinenLoppu" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+    <configuration name="Verkkokauppa [jacocoTestCoverageVerification]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="jacocoTestCoverageVerification" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
     </configuration>
-    <configuration name="KauppaTest.ostoksistaVeloitetaanOikein" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Verkkokauppa.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ohtu.verkkokauppa.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ohtu.verkkokauppa" />
-      <option name="MAIN_CLASS_NAME" value="ohtu.verkkokauppa.KauppaTest" />
-      <option name="METHOD_NAME" value="ostoksistaVeloitetaanOikein" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+    <configuration name="Verkkokauppa [jacocoTestReport]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="jacocoTestReport" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
     </configuration>
-    <configuration name="KauppaTest.samoistaOstoksistaVeloitetaanOikein" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="KauppaTest.koristavoipoistaa" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Verkkokauppa.test" />
       <extension name="coverage">
         <pattern>
@@ -233,7 +330,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="ohtu.verkkokauppa" />
       <option name="MAIN_CLASS_NAME" value="ohtu.verkkokauppa.KauppaTest" />
-      <option name="METHOD_NAME" value="samoistaOstoksistaVeloitetaanOikein" />
+      <option name="METHOD_NAME" value="koristavoipoistaa" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -241,11 +338,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.KauppaTest" />
-        <item itemvalue="JUnit.KauppaTest.eriOstoksistaVeloitetaanOikeinToinenLoppu" />
-        <item itemvalue="JUnit.KauppaTest.samoistaOstoksistaVeloitetaanOikein" />
-        <item itemvalue="JUnit.KauppaTest.eriOstoksistaVeloitetaanOikein" />
-        <item itemvalue="JUnit.KauppaTest.ostoksistaVeloitetaanOikein" />
+        <item itemvalue="JUnit.KauppaTest.koristavoipoistaa" />
+        <item itemvalue="Gradle.Verkkokauppa [build]" />
+        <item itemvalue="Gradle.Verkkokauppa [clean]" />
+        <item itemvalue="Gradle.Verkkokauppa [jacocoTestReport]" />
+        <item itemvalue="Gradle.Verkkokauppa [jacocoTestCoverageVerification]" />
       </list>
     </recent_temporary>
   </component>
@@ -259,32 +356,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1574671497579</updated>
-      <workItem from="1574671500937" duration="2874000" />
+      <workItem from="1574671500937" duration="6049000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="KauppaTest_ostoksenPaaytyttyaParametreillaOikeatArvot - 2019.11.25 at 11h 35m 45s.xml">
-      <configuration name="KauppaTest.ostoksenPaaytyttyaParametreillaOikeatArvot" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="KauppaTest_ostoksenPaaytyttyaParametreillaOikeatArvot - 2019.11.25 at 11h 36m 29s.xml">
-      <configuration name="KauppaTest.ostoksenPaaytyttyaParametreillaOikeatArvot" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="KauppaTest_ostoksenPaaytyttyaParametreillaOikeatArvot - 2019.11.25 at 11h 37m 40s.xml">
-      <configuration name="KauppaTest.ostoksenPaaytyttyaParametreillaOikeatArvot" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="KauppaTest_ostoksenPaaytyttyaParametreillaOikeatArvot - 2019.11.25 at 11h 39m 42s.xml">
-      <configuration name="KauppaTest.ostoksenPaaytyttyaParametreillaOikeatArvot" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="KauppaTest_ostoksistaVeloitetaanOikein - 2019.11.25 at 11h 46m 12s.xml">
-      <configuration name="KauppaTest.ostoksistaVeloitetaanOikein" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="KauppaTest_ostoksistaVeloitetaanOikein - 2019.11.25 at 11h 47m 47s.xml">
-      <configuration name="KauppaTest.ostoksistaVeloitetaanOikein" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="KauppaTest_eriOstoksistaVeloitetaanOikein - 2019.11.25 at 11h 48m 01s.xml">
-      <configuration name="KauppaTest.eriOstoksistaVeloitetaanOikein" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="KauppaTest_samoistaOstoksistaVeloitetaanOikein - 2019.11.25 at 11h 48m 07s.xml">
       <configuration name="KauppaTest.samoistaOstoksistaVeloitetaanOikein" configurationId="JUnit" />
     </history-entry>
@@ -294,9 +370,30 @@
     <history-entry file="KauppaTest - 2019.11.25 at 11h 49m 40s.xml">
       <configuration name="KauppaTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="KauppaTest_ostoskoriOnfreesi - 2019.11.25 at 12h 22m 23s.xml">
+      <configuration name="KauppaTest.ostoskoriOnfreesi" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="KauppaTest_ostoskoriOnfreesi - 2019.11.25 at 12h 22m 39s.xml">
+      <configuration name="KauppaTest.ostoskoriOnfreesi" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="KauppaTest_ostoskoriPyytaaViitteen - 2019.11.25 at 12h 26m 17s.xml">
+      <configuration name="KauppaTest.ostoskoriPyytaaViitteen" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="KauppaTest_ostoskoriPyytaaViitteen - 2019.11.25 at 12h 26m 42s.xml">
+      <configuration name="KauppaTest.ostoskoriPyytaaViitteen" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="KauppaTest_ostoskoriPyytaaViitteen - 2019.11.25 at 12h 27m 20s.xml">
+      <configuration name="KauppaTest.ostoskoriPyytaaViitteen" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="KauppaTest_koristavoipoistaa - 2019.11.25 at 12h 42m 55s.xml">
+      <configuration name="KauppaTest.koristavoipoistaa" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="KauppaTest_koristavoipoistaa - 2019.11.25 at 12h 49m 45s.xml">
+      <configuration name="KauppaTest.koristavoipoistaa" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2874000" />
+    <option name="totallyTimeSpent" value="6049000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -308,12 +405,12 @@
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Capture Tool" />
       <window_info id="Learn" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Build" weight="0.3289689" />
       <window_info anchor="bottom" id="TMC Test Results" />
       <window_info anchor="bottom" id="Spring" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Terminal" weight="0.3289689" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Database Changes" />
@@ -321,7 +418,7 @@
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33060557" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.33060557" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -329,7 +426,7 @@
       <window_info anchor="right" id="Maven" />
       <window_info anchor="right" id="Palette" />
       <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Gradle" />
+      <window_info anchor="right" id="Gradle" visible="true" weight="0.33282906" />
       <window_info anchor="right" id="Database" />
       <window_info anchor="right" id="Palette&#9;" />
       <window_info anchor="right" id="Theme Preview" />
@@ -343,13 +440,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="72" selection-start-line="11" selection-start-column="72" selection-end-line="11" selection-end-column="72" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ohtu/AppConfig.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -357,20 +447,78 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ohtu/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ohtu/verkkokauppa/Kirjanpito.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
-          <caret line="24" column="32" lean-forward="true" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ohtu/verkkokauppa/Viitegeneraattori.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/test-results/test/TEST-ohtu.verkkokauppa.KauppaTest.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/reports/jacoco/test/jacocoTestReport.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/reports/jacoco/test/html/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="22" lean-forward="true" selection-start-column="22" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/test/classes/ohtu/verkkokauppa/KauppaTest.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="28" column="1" lean-forward="true" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ohtu/verkkokauppa/Varasto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-17">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ohtu/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="24" column="32" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/ohtu/verkkokauppa/KauppaTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-391">
-          <caret line="85" column="25" lean-forward="true" selection-start-line="85" selection-start-column="25" selection-end-line="85" selection-end-column="25" />
+        <state relative-caret-position="187">
+          <caret line="200" column="27" selection-start-line="200" selection-start-column="27" selection-end-line="200" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ohtu/verkkokauppa/Ostoskori.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ohtu/verkkokauppa/Kauppa.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="29" column="28" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="28" />
         </state>
       </provider>
     </entry>

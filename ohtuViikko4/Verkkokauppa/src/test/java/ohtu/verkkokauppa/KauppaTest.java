@@ -1,5 +1,6 @@
 package ohtu.verkkokauppa;
 
+import com.google.common.collect.Sets;
 import org.junit.Before;
 import org.junit.Test;
 
@@ -145,6 +146,61 @@ public class KauppaTest {
         k.lisaaKoriin(2); // ostetaan tuotetta numero 1 eli maitoa
         k.tilimaksu("pekka", "12345");
 
+        verify(pankki).tilisiirto(eq("pekka"), eq(42), eq("12345"), anyString(), eq(5));
+
+    }
+
+    @Test
+    public void ostoskoriOnfreesi() {
+        when(viite.uusi()).thenReturn(42);
+
+        when(varasto.saldo(1)).thenReturn(10);
+        when(varasto.haeTuote(1)).thenReturn(new Tuote(1, "maito", 5));
+        Kauppa k = new Kauppa(varasto, pankki, viite);
+        // tehdään ostokset
+        k.aloitaAsiointi();
+        k.lisaaKoriin(1);
+        k.aloitaAsiointi();
+        k.lisaaKoriin(1);
+        k.tilimaksu("pekka", "12345");
+        verify(pankki).tilisiirto(eq("pekka"), eq(42), eq("12345"), anyString(), eq(5));
+
+    }
+
+    @Test
+    public void ostoskoriPyytaaViitteen() {
+        when(varasto.saldo(1)).thenReturn(10);
+        when(varasto.haeTuote(1)).thenReturn(new Tuote(1, "maito", 5));
+        Kauppa k = new Kauppa(varasto, pankki, viite); k.aloitaAsiointi();
+        k.aloitaAsiointi();
+        k.lisaaKoriin(1);
+        k.tilimaksu("pekka", "12345");
+
+        verify(viite, times(1)).uusi();
+
+        k.aloitaAsiointi();
+        k.lisaaKoriin(1);
+        k.tilimaksu("pekka", "12345");
+
+        verify(viite, times(2)).uusi();
+    }
+
+    @Test
+    public void koristavoipoistaa() {
+        when(viite.uusi()).thenReturn(42);
+
+        when(varasto.saldo(1)).thenReturn(10);
+        Tuote t = new Tuote(1, "maito", 5);
+        when(varasto.haeTuote(1)).thenReturn(t);
+
+        Kauppa k = new Kauppa(varasto, pankki, viite);
+        // tehdään ostokset
+        k.aloitaAsiointi();
+        k.lisaaKoriin(1);
+        k.lisaaKoriin(1);
+        k.poistaKorista(1);
+        verify(varasto, times(1)).palautaVarastoon(t);
+        k.tilimaksu("pekka", "12345");
         verify(pankki).tilisiirto(eq("pekka"), eq(42), eq("12345"), anyString(), eq(5));
 
     }
