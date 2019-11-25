@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f8a75740-5dda-438a-a676-9569600a5237" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/ohtu/intjoukkosovellus/IntJoukko.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ohtu/intjoukkosovellus/IntJoukko.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ohtu/intjoukkosovellus/Sovellus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ohtu/intjoukkosovellus/Sovellus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ohtu/intjoukkosovellus/IntJoukkoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ohtu/intjoukkosovellus/IntJoukkoTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ohtu/intjoukkosovellus/JoukkoOperaatiotTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ohtu/intjoukkosovellus/JoukkoOperaatiotTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Verkkokauppa/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Verkkokauppa/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="f8a75740-5dda-438a-a676-9569600a5237" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -69,8 +63,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/ohtu/intjoukkosovellus/IntJoukko.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="263">
-              <caret line="23" column="43" selection-start-line="23" selection-start-column="43" selection-end-line="23" selection-end-column="43" />
+            <state relative-caret-position="204">
+              <caret line="12" column="38" lean-forward="true" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
               <folding>
                 <element signature="e#4281#4282#0" expanded="true" />
                 <element signature="e#4316#4317#0" expanded="true" />
@@ -235,8 +229,8 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1574691088962" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1574691154740" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Tennis" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
@@ -347,7 +341,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1574679481469</updated>
-      <workItem from="1574679484267" duration="6828000" />
+      <workItem from="1574679484267" duration="7098000" />
     </task>
     <servers />
   </component>
@@ -384,11 +378,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6828000" />
+    <option name="totallyTimeSpent" value="7098000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Designer" />
       <window_info id="Image Layers" />
@@ -408,7 +401,7 @@
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3289689" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -473,8 +466,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ohtu/intjoukkosovellus/IntJoukko.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="263">
-          <caret line="23" column="43" selection-start-line="23" selection-start-column="43" selection-end-line="23" selection-end-column="43" />
+        <state relative-caret-position="204">
+          <caret line="12" column="38" lean-forward="true" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
           <folding>
             <element signature="e#4281#4282#0" expanded="true" />
             <element signature="e#4316#4317#0" expanded="true" />
